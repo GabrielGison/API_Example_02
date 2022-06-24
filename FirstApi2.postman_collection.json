@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/factorial/7",
+					"raw": "http://localhost:8080/factorial/yourString",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -19,7 +19,7 @@
 					"port": "8080",
 					"path": [
 						"factorial",
-						"7"
+						"yourString"
 					]
 				}
 			},
